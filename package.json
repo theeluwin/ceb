@@ -1,0 +1,30 @@
+{
+  "name": "ceb",
+  "description": "boost your chess elo!",
+  "version": "0.1.0",
+  "author": {
+    "name": "theeluwin",
+    "url": "https://github.com/theeluwin"
+  },
+  "contributors": [
+    {
+      "name": "disjukr",
+      "url": "https://github.com/disjukr"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theeluwin/ceb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theeluwin/ceb/issues"
+  },
+  "license": "MIT",
+  "main": "ceb.user.js",
+  "keywords": [
+    "ceb",
+    "chess",
+    "elo"
+  ],
+  "private": true
+}
